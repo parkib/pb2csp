@@ -1,9 +1,9 @@
-title: Nighthawk-Pages
+title: prakruti's blog ☁️🧸🎧
 description: "August 2023 to June 2024"
-owner_name: Tirth Thakkar
-github_username: Tirth-Thakkar
-github_repo: "Nighthawk-Pages"
-baseurl: "/Nighthawk-Pages"
+owner_name: Prakruti Bhatt
+github_username: parkib
+github_repo: "pb2csp"
+baseurl: "/pb2csp"
 remote_theme: jekyll/minima
 minima:
   social_links:
