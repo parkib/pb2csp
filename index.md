@@ -6,7 +6,7 @@ My trimester 2 repository --> to document notes/progress/ideation/review tickets
 
 
 
-# Posts
+# recent posts
 
 <html lang="en">
 <head>
