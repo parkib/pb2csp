@@ -8,7 +8,6 @@ My trimester 2 repository --> to document notes/progress/ideation/review tickets
 
 # Posts
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
