@@ -1,10 +1,12 @@
 ---
-toc: true
-comments: true
-layout: post
-title: Signup Page demographics
-type: hacks
-courses: { compsci: {week: 20} }
+comments: True
+layout: notebook
+title: Sign up page
+description: 
+type: collab
+author: Prakruti
+toc: True
+courses: {'csp': {'week': 20}}
 ---
 
 <html lang="en">
