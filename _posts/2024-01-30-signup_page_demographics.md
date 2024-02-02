@@ -64,7 +64,7 @@ courses: {'csp': {'week': 20}}
             if (response.ok) {
                 console.log("Successfully Signed Up");
                 alert("Account has been created. You will be directed to login page shortly.");
-                window.location.href = "https://anaghaa1206.github.io/anagha12//2024/01/30/login.html"
+                window.location.href = "https://parkib.github.io/pb2csp//2024/01/30/login.html"
               } else {
                 console.error("Sign Up Failed");
                 // You can handle failed login attempts here
