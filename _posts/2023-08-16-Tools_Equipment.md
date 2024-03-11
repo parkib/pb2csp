@@ -19,7 +19,7 @@ type: hacks
 - Install [VSCode](https://code.visualstudio.com/docs/setup/mac)
 
 > Anaconda install 
-- Download for MacOS: [Anaconda](https://www.anaconda.com/products/distribution)
+- Download for MacOS: [Anaconda](https://www.anaconda.com/products/distribution) 
 - Run Install: Answer yes to questions
 
 > Homebrew install
