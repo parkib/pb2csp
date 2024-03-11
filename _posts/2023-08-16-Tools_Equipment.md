@@ -18,7 +18,7 @@ type: hacks
 > VSCode install
 - Install [VSCode](https://code.visualstudio.com/docs/setup/mac)
 
-> Anaconda install
+> Anaconda install 
 - Download for MacOS: [Anaconda](https://www.anaconda.com/products/distribution)
 - Run Install: Answer yes to questions
 
