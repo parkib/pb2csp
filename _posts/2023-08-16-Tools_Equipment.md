@@ -36,7 +36,7 @@ type: hacks
 (base) iMac:~ jmort1021$
 ```
 
-> Key Packages needed on MacOS
+> Key Packages needed on MacOS 
 - <mark>Close and Start a new terminal</mark>, run each command in Terminal
 ```bash
 $ brew list # list packages
